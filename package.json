@@ -14,8 +14,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "@clerk/nextjs": "^3.6.6",
-    "next": "^12.1.6",
+    "@clerk/nextjs": "3.6.6",
+    "next": "12.1.6",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
